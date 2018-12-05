@@ -58,7 +58,7 @@ $(function() {
 
 
 // Set the date we're counting down to
-var countDownDate = new Date("Dec 5, 2018 15:37:25").getTime();
+var countDownDate = new Date("Dec 18, 2018 11:00:00").getTime();
 
 //document.write(countDownDate);
 
