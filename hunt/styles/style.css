@@ -108,6 +108,12 @@ body {
     padding-left: 23px;
 }
 
+body{ 
+	font: normal 13px/20px Arial, Helvetica, sans-serif; word-wrap:break-word;
+	color: #eee;
+	background: #353535;
+}
+
 #countdown{
 	width: 465px;
 	height: 112px;
