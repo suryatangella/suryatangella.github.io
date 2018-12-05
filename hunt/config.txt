@@ -1,0 +1,35 @@
+
+bank Balance and cash in hand 
+
+
+
+
+Bank - 
+
+Deposit - cash in hand to account balance 
+Withdraw - account baalacne to cash in hand 
+
+Tailor 
+
+The tailor has a suit worth 100 dollars , please choose an option to pay 
+3 buttons , cash , cheque or debitcard 
+
+if cash is not avaialbe show an error 
+cheuque accept rightaway then show a error or a success after 3 mins .
+Debit card same as cash 
+
+Home 
+ /// Ideally he should be able to burn his money here 
+
+ Restaurant
+ /// Ideally he should be able to burn his money here 
+
+SPA 
+ /// Ideally he should be able to burn his money here 
+
+ Supermarket
+ /// Ideally he should be able to burn his money here 
+
+
+ Travelagent 
+ // One dummy option to buy a ticket 
